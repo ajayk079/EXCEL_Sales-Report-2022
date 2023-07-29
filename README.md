@@ -1,2 +1,3 @@
 # Sales-Report-2022
-Its a sales report of local store with Interactive Dashboard.
+It's a sales report of a local store with an Interactive Dashboard using Excel.
+To know full detail please go through Document.
